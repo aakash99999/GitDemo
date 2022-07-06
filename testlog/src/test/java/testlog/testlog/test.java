@@ -16,6 +16,8 @@ public class test {
 		logger.error("this is a error");
 		System.out.println("task is working test");
 		System.out.println("hello");
+		
+		System.out.println(" hello testing");
 
 	}
 	

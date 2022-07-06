@@ -17,7 +17,7 @@
             <filtering>true</filtering> 
         </resource>
     </resources>
-    <testResources>
+     <testResources>
             <testResource>
                 <directory>src/test/resources</directory>
                 <filtering>true</filtering>
@@ -33,6 +33,13 @@
           <suiteXmlFiles>
             <suiteXmlFile>testng.xml</suiteXmlFile>
           </suiteXmlFiles>
+       
+           <systemProperties>
+             <property> 
+               <name>java.util.logging.config.file</name>
+               <value>src/test/resources/logging.properties</value>
+             </property>
+           </systemProperties>
         </configuration>
       </plugin>
   
