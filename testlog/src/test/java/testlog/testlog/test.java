@@ -14,7 +14,7 @@ public class test {
 		logger.warn("warning message");
 		logger.fatal("this is a fatal");
 		logger.error("this is a error");
-		System.out.println("task is working");
+		System.out.println("task is working test");
 	}
 	
 
