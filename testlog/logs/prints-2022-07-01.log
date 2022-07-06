@@ -1,0 +1,8 @@
+10:12:43.783 [main] WARN  testlog.testlog.test - warning message
+10:12:43.794 [main] FATAL testlog.testlog.test - this is a fatal
+10:12:43.794 [main] ERROR testlog.testlog.test - this is a error
+10:12:43.804 [main] INFO  testlog.testlog.App - its working
+10:33:05.195 [main] INFO  testlog.testlog.test - this is a demo
+10:33:05.195 [main] INFO  testlog.testlog.test - working as expected
+10:33:05.195 [main] WARN  testlog.testlog.test - warning message
+10:33:05.197 [main] FATAL testlog.testlog.test - this is a fatal
