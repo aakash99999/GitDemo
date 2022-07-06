@@ -15,6 +15,8 @@ public class test {
 		logger.fatal("this is a fatal");
 		logger.error("this is a error");
 		System.out.println("task is working test");
+		System.out.println("hello");
+
 	}
 	
 
